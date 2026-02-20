@@ -1,5 +1,5 @@
-<H3>ENTER YOUR NAME</H3>
-<H3>ENTER YOUR REGISTER NO.</H3>
+<H3>ENTER YOUR NAME</H3> LATCHAYA PRIYAN S
+<H3>ENTER YOUR REGISTER NO.</H3> 212224230139
 <H3>EX. NO.1</H3>
 <H3>DATE</H3>
 <H1 ALIGN =CENTER> Introduction to Kaggle and Data preprocessing</H1>
@@ -138,17 +138,24 @@ print(len(X_test))
 
 <img width="1591" height="1199" alt="image" src="https://github.com/user-attachments/assets/bdb7cf34-3245-42a9-94ed-b2b895e0a93c" />
 
+
 <img width="325" height="612" alt="image" src="https://github.com/user-attachments/assets/cb33b498-64c4-49e7-b660-d3f89fe6746a" />
+
 
 <img width="378" height="691" alt="image" src="https://github.com/user-attachments/assets/7928991b-326f-41d4-806c-3bcff1decc25" />
 
+
 <img width="389" height="599" alt="image" src="https://github.com/user-attachments/assets/db8a7a5b-e9c3-46b4-b294-bf3d600d176c" />
+
 
 <img width="1641" height="475" alt="image" src="https://github.com/user-attachments/assets/5778fd4e-c21c-4b0b-b33f-67899769fa58" />
 
+
 <img width="1590" height="622" alt="image" src="https://github.com/user-attachments/assets/7f1e6fd4-2b03-41dd-9d1f-294f74770252" />
 
+
 <img width="1499" height="629" alt="image" src="https://github.com/user-attachments/assets/79ccb691-20de-453d-9795-738c88726993" />
+
 
 <img width="1500" height="772" alt="image" src="https://github.com/user-attachments/assets/8edd8fb0-a543-43fc-9a72-dfd9b50c854e" />
 
